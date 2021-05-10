@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WebMobTask/static/css/main.1635e87c.chunk.css",
+    "main.js": "/WebMobTask/static/js/main.dd4334e6.chunk.js",
+    "main.js.map": "/WebMobTask/static/js/main.dd4334e6.chunk.js.map",
+    "runtime-main.js": "/WebMobTask/static/js/runtime-main.05063ce1.js",
+    "runtime-main.js.map": "/WebMobTask/static/js/runtime-main.05063ce1.js.map",
+    "static/js/2.9f830ac9.chunk.js": "/WebMobTask/static/js/2.9f830ac9.chunk.js",
+    "static/js/2.9f830ac9.chunk.js.map": "/WebMobTask/static/js/2.9f830ac9.chunk.js.map",
+    "static/js/3.f82ff68d.chunk.js": "/WebMobTask/static/js/3.f82ff68d.chunk.js",
+    "static/js/3.f82ff68d.chunk.js.map": "/WebMobTask/static/js/3.f82ff68d.chunk.js.map",
+    "index.html": "/WebMobTask/index.html",
+    "static/css/main.1635e87c.chunk.css.map": "/WebMobTask/static/css/main.1635e87c.chunk.css.map",
+    "static/js/2.9f830ac9.chunk.js.LICENSE.txt": "/WebMobTask/static/js/2.9f830ac9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05063ce1.js",
+    "static/js/2.9f830ac9.chunk.js",
+    "static/css/main.1635e87c.chunk.css",
+    "static/js/main.dd4334e6.chunk.js"
+  ]
+}
